@@ -1,11 +1,11 @@
-## Wiki
+## notes
 
-- [Ubuntu](/wiki/ubuntu.md#ubuntu)
-    - [Install via tar.xz](/wiki/ubuntu.md#install-via-tarxz)
-    - [Install via tar.gz](/wiki/ubuntu.md#install-via-targz)
-    
-- [MySQL](/wiki/mysql.md#mysql)
-    - [Create a new database with UTF-8](/wiki/mysql.md#create-a-new-database-with-utf-8)
-    - [Create user with the password correctly](/wiki/mysql.md#create-user-with-the-password-correctly)
-    - [Update user password](/wiki/mysql.md#update-user-password)
-    - [Grant all privileges](/wiki/mysql.md#grant-all-privileges)
+### [mySQL](/wiki/mysql.md#mysql)
+- [create a new database with UTF-8](/wiki/mysql.md#create-a-new-database-with-utf-8)
+- [create user with the password correctly](/wiki/mysql.md#create-user-with-the-password-correctly)
+- [grant all privileges on database to user](/wiki/mysql.md#grant-all-privileges)
+- [update user password](/wiki/mysql.md#update-user-password)
+
+### [ubuntu](/wiki/ubuntu.md#ubuntu)
+- [install package via tar.gz](/wiki/ubuntu.md#install-via-targz)
+- [install package via tar.xz](/wiki/ubuntu.md#install-via-tarxz)
