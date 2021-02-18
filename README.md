@@ -50,5 +50,6 @@ echo 'let\'s get ready for new challenge' . PHP_EOL;
 - [update user password](/notes/mysql.md#update-user-password)
 
 ### [ubuntu](/notes/ubuntu.md#ubuntu)
+- [enable scroll lock](/notes/ubuntu.md#enable-scroll-lock)
 - [install package via tar.gz](/notes/ubuntu.md#install-via-targz)
 - [install package via tar.xz](/notes/ubuntu.md#install-via-tarxz)

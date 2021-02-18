@@ -1,5 +1,11 @@
 ## ubuntu
 
+### enable scroll lock
+
+```shell
+xmodmap -e 'add mod3 = Scroll_Lock'
+```
+
 ### install via tar.gz
 
 ```shell
