@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about [Golang](https://golang.org/).
 - 💬 Ask me about web service, system/database design & analysis, SQL/MDX query.
 - 📫 How to reach me: [eMail](mailto:phamphutoan98@gmail.com).
-- 😄 Pronouns: He | Him.
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: There is no trash programming language so don't trash your resources.
 
 ### A little more about me...
@@ -41,15 +41,15 @@ $futureGoals = array_filter($futureGoals, function (string $goal) use (&$toan, $
 
 echo 'let\'s get ready for new challenge' . PHP_EOL;
 ```
-## notes
+### notes
 
-### [mySQL](/notes/mysql.md#mysql)
+[mySQL](/notes/mysql.md#mysql)
 - [create a new database with UTF-8](/notes/mysql.md#create-a-new-database-with-utf-8)
 - [create user with the password correctly](/notes/mysql.md#create-user-with-the-password-correctly)
 - [grant all privileges on database to user](/notes/mysql.md#grant-all-privileges)
 - [update user password](/notes/mysql.md#update-user-password)
 
-### [ubuntu](/notes/ubuntu.md#ubuntu)
+[ubuntu](/notes/ubuntu.md#ubuntu)
 - [enable scroll lock](/notes/ubuntu.md#enable-scroll-lock)
 - [install package via tar.gz](/notes/ubuntu.md#install-via-targz)
 - [install package via tar.xz](/notes/ubuntu.md#install-via-tarxz)
